@@ -18,7 +18,7 @@ Soy una persona apasionada y dedicada, con una ética de trabajo fuerte y una gr
 
 # Proyectos Destacados
 - [Ecommerce Shoes](https://github.com/brian432/ecommerce-shoes): Proyecto ecommerce de zapatillas utilizando las tecnologías MERN.
-- [Movies and Series](https://github.com/brian432/movies-and-series): Responsive React App consumiendo la API de The Movie Database (TMDB).
+- [Movies and Series](https://github.com/brian432/cine-y-series): Responsive React App consumiendo la API de The Movie Database (TMDB).
 - [Nasa-App](https://github.com/brian432/Nasa-App): Aplicación sobre datos e imágenes del Sistema solar.
 
 # Contacto
